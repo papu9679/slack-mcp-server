@@ -46,7 +46,7 @@ slack-mcp-server/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/Azmat2003/slack-mcp-server.git
+git clone https://github.com/papu9679/slack-mcp-server.git
 cd slack-mcp-server
 npm install
 ```
